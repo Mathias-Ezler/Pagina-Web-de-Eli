@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+    --color-verde: #11aa58;
+    --color-verdeOscuro: #009951;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
